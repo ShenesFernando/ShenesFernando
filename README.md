@@ -60,7 +60,7 @@ More projects coming soon!
 
 - GitHub: https://github.com/ShenesFernando
 - LinkedIn: 
-- Email: mailto:shenes.fernando1@gmail.com
+- Email: shenes.fernando1@gmail.com
 
 ### 👾 Pac-Man Contribution Graph
 
