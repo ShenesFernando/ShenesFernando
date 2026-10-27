@@ -59,8 +59,8 @@ More projects coming soon!
 ### 🌐 Connect With Me
 
 - GitHub: https://github.com/ShenesFernando
-- LinkedIn: Add your LinkedIn profile
-- Email: Add your email address
+- LinkedIn: 
+- Email: mailto:shenes.fernando1@gmail.com
 
 ### 👾 Pac-Man Contribution Graph
 
