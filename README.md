@@ -62,3 +62,6 @@ More projects coming soon!
 - LinkedIn: Add your LinkedIn profile
 - Email: Add your email address
 
+### 👾 Pac-Man Contribution Graph
+
+![Pac-Man](https://raw.githubusercontent.com/ShenesFernando/ShenesFernando/output/pacman.svg)
